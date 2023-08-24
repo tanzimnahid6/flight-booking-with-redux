@@ -21,4 +21,4 @@ The **Flight Booking Component** is a React component designed for booking fligh
 - React Icons: Icons from the React Icons library are used for visual elements.
 
 ## View Live 
-[Visit our website](https://www.example.com)
+[Visit our website](https://redux-flight-booking-1.netlify.app/)
